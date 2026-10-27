@@ -5,4 +5,4 @@
 
 # ЗАДАНИЯ:
 
-[задание 1](./Task/Task1%20(Variant%2011))
+[задание 1](/Task/Task1(Variant%2011).md)
